@@ -1,5 +1,50 @@
-#caja{
-    height: 30em;
-    width: 30em;
-    background-color: blueviolet;
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center; /*ALIGN ITEMS SE USA PARA CENTRAR ELEMENTOS EN VERTICAL*/
+    border: solid;
+}
+/*EL HEADER LO VOY A USAR PARA SIMULAR LOS BOTONES SUPERIORES DE LA CONSOLA Y EL REGULADOR DE VOLUMEN*/
+
+header{
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    border: solid green;
+    margin-top: 4em;
+}
+
+/*EL SECTION LO VOY A USAR PARA HACER LA PROPIA CONSOLA*/
+section{
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    border: solid purple;
+}
+
+#joyConAzul{
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    border: solid blue;
+    padding-bottom: 25em;
+}
+
+#pantalla{
+    width: 70%;
+    display: flex;
+    border: solid grey;
+}
+
+#joyConRojo{
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    border: solid red;
 }
