@@ -28,7 +28,7 @@ section{
     border: solid purple;
 }
 
-#joyConAzul{
+#joyconAzul{
     width: 15%;
     display: flex;
     flex-direction: column;
@@ -42,7 +42,7 @@ section{
     border: solid grey;
 }
 
-#joyConRojo{
+#joyconRojo{
     width: 15%;
     display: flex;
     flex-direction: column;
