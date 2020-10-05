@@ -256,5 +256,96 @@ body{
 #teclas{
     width: 10em;
     height: 19em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
+#zonaTeclas{
+    width: 6em;
+    height: 6em;
+    margin-top: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#vxv{
+    width: 5em;
+    height: 1.6em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#yva{
+    width: 5em;
+    height: 1.6em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#vbv{
+    width: 5em;
+    height: 1.6em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.vacio{
+    width: 1.6em;
+    height: 1.6em;
+}
+
+.teclaLetra{
+    width: 1.6em;
+    height: 1.6em;
+    border: solid;
+    background-color: #161614;
+    border-radius: 100% 100% 100% 100%;
+}
+
+#zonaOpciones{
+    width: 10em;
+    height: 4em;
+    margin-top: 5em;
+}
+
+#zonaStart{
+    width: 10em;
+    height: 2em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.button{
+    width: 0.5em;
+    height: 0.5em;
+    background-color: #161614;
+    margin-left: 0.5em;
+    border: solid;
+    border-radius: 100% 100% 100% 100%;
+}
+
+#start{
+    color: white;
+    margin-left: 0.5em;
+}
+
+
+#zonaSelect{
+    width: 10em;
+    height: 2em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#select{
+    color: white;
+    margin-left: 0.5em;
+}
