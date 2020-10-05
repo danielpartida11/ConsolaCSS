@@ -1,0 +1,260 @@
+body{
+    width: 120em;
+    height: 57em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#areaConsola{
+    width: 50em;
+    height: 50em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/*EN ESTE PUNTO, SE EMPEZARA A REALIZAR LA PARTE SUPERIOR DE LA CONSOLA*/
+
+#topScreen{
+    width: 40em;
+    height: 19.9em;
+    background: linear-gradient(to top left, #6f757b 45%, #483c41 100%);
+    display: flex;
+    flex-direction: row;
+    border-radius: 10% 10% 0% 0%;
+    border: solid;
+}
+
+.speaker{
+    width: 10em;
+    height: 19em;
+    display: flex;
+    flex-direction: column;
+}
+
+.pegatinaCuadradaArriba{
+    width: 10em;
+    height: 6.3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pegatina1{
+    width: 1em;
+    height: 1em;
+    background-color: #31312F;
+    margin-top: 1em;
+    border-radius: 2% 2% 2% 2%;
+}
+
+.pegatina2{
+    width: 1em;
+    height: 1em;
+    background-color: #31312F;
+    border-radius: 2% 2% 2% 2%;
+}
+
+.altavoz{
+    width: 10em;
+    height: 6.4em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.altavoz img{
+    width: 2em;
+    height: 2em;
+}
+
+.pegatinaCuadradaAbajo{
+    width: 10em;
+    height: 6.3em;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-bottom: 0.5em;
+}
+
+.screen{
+    width: 20em;
+    height: 19em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.marcoScreen{
+    width: 20em;
+    height: 17em;
+    background: linear-gradient(to bottom right, #393d41 55%, #000000 100%);
+    border-radius: 2% 2% 2% 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.pantalla{
+    width: 18em;
+    height: 15em;
+    background: linear-gradient(to bottom right, #ffffff 26%, #6a5353 100%);
+    border: solid;
+}
+
+#union{
+    width: 30em;
+    height: 0.1em;
+    background-color: #939192;
+}
+
+#visagra{
+    width: 40em;
+    height: 1em;
+    background-color: #6F757B;
+    border-radius: 20% 20% 0% 0%;
+    display: flex;
+    flex-direction: row;
+    border-top: solid;
+    border-left: solid;
+    border-right: solid;
+}
+
+#visIzq{
+    width: 5em;
+    height: 1em;
+    border-right: solid;
+}
+
+#mic{
+    width: 30em;
+    height: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#hueco{
+    width: 0.2em;
+    height: 0.6em;
+    background-color: black;
+}
+
+#visDer{
+    width: 5em;
+    height: 1em;
+    border-left: solid;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+#luzGris{
+    width: 0.3em;
+    height: 0.6em;
+    background-color: darkslategrey;
+    margin-right: 1em;
+}
+
+#luzVerde{
+    width: 0.3em;
+    height: 0.6em;
+    background-color: green;
+    margin-right: 0.4em;
+}
+
+#bottomScreen{
+    width: 40em;
+    height: 19em;
+    background: linear-gradient(to bottom right, #6f757b 53%, #483c41 100%);
+    border-radius: 0% 0% 10% 10%;
+    display: flex;
+    flex-direction: row;
+    border: solid;
+}
+
+#cruceta{
+    width: 10em;
+    height: 19em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#zonaCruceta{
+    width: 5em;
+    height: 5em;
+    margin-bottom: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#flechaArriba{
+    width: 5em;
+    height: 1.6em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#up{
+    width: 1.6em;
+    height: 1.6em;
+    background-color: black;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.vertiWhite{
+    width: 0.1em;
+    height: 1em;
+    background-color: white;
+}
+
+#flechasIzqDer{
+    width: 4.7em;
+    height: 1.8em;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.horiWhite{
+    width: 1em;
+    height: 0.1em;
+    background-color: white;
+}
+
+#flechaAbajo{
+    width: 5em;
+    height: 1.6em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#down{
+    width: 1.6em;
+    height: 1.6em;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#teclas{
+    width: 10em;
+    height: 19em;
+}
+
