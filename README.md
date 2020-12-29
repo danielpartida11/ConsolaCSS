@@ -1,4 +1,4 @@
-### Nintendo CSS
+# Nintendo CSS
 
 # ¿Qué es? 🧐 
 
