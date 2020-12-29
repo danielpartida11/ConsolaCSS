@@ -11,4 +11,6 @@
 
 # ¿Cómo puedo visualizar el contenido del proyecto?
 
-    Al hacer click en el siguiente hipervínculo, podrás verlo: 👉 https://danielpartida11.github.io/ConsolaCSS/ 👈
+    Al hacer click en el siguiente hipervínculo, podrás verlo: 
+    
+    👉 https://danielpartida11.github.io/ConsolaCSS/ 👈
