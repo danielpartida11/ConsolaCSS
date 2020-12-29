@@ -14,3 +14,7 @@
     Al ingresar en el siguiente hipervínculo, podrás verlo: 
     
     👉 https://danielpartida11.github.io/ConsolaCSS 👈
+
+# Autor
+
+    Daniel Partida
