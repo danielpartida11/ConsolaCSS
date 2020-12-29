@@ -11,4 +11,4 @@ Este proyecto muestra un diseño de la videoconsola Nintendo DS en el navegador.
 
 # ¿Cómo puedo visualizar el contenido del proyecto?
 
-Al hacer click en el siguiente hipervínculo, podrás verlo: 
+Al hacer click en el siguiente hipervínculo, podrás verlo: [https://git.heroku.com/consola-css.git]
