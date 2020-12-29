@@ -1,14 +1,14 @@
 ### Nintendo CSS
 
-    # ¿Qué es? 🧐 
+# ¿Qué es? 🧐 
 
-        Este proyecto muestra un diseño de la videoconsola Nintendo DS en el navegador.
+    Este proyecto muestra un diseño de la videoconsola Nintendo DS en el navegador.
 
-    # ¿Qué tecnologías se han utilizado para realizar el proyecto?
+# ¿Qué tecnologías se han utilizado para realizar el proyecto?
 
-        - HTML5
-        - CSS3
+    - HTML5
+    - CSS3
 
-    # ¿Cómo puedo visualizar el contenido del proyecto?
+# ¿Cómo puedo visualizar el contenido del proyecto?
 
-        Al hacer click en el siguiente hipervínculo, podrás verlo: 👉 https://danielpartida11.github.io/ConsolaCSS/ 👈
+    Al hacer click en el siguiente hipervínculo, podrás verlo: 👉 https://danielpartida11.github.io/ConsolaCSS/ 👈
